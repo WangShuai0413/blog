@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>blog</name>
-    <description>Demo project for Spring Boot</description>
+    <description>SpringBoot开发企业级博客</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
